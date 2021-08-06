@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\testes\\OPEN.Motorista.Aplicacao\\OPEN.Motorista.Aplicacao.csproj": {}
+  },
+  "projects": {
+    "C:\\testes\\OPEN.Motorista.Aplicacao\\OPEN.Motorista.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\testes\\OPEN.Motorista.Aplicacao\\OPEN.Motorista.Aplicacao.csproj",
+        "projectName": "OPEN.Motorista.Aplicacao",
+        "projectPath": "C:\\testes\\OPEN.Motorista.Aplicacao\\OPEN.Motorista.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\testes\\OPEN.Motorista.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\testes\\OPEN.Motorista.CrossCutting\\OPEN.Motorista.CrossCutting.csproj": {
+                "projectPath": "C:\\testes\\OPEN.Motorista.CrossCutting\\OPEN.Motorista.CrossCutting.csproj"
+              },
+              "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj": {
+                "projectPath": "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj"
+              },
+              "C:\\testes\\OPEN.Motorista.Infra.Data\\Teste.Infra.Data.csproj": {
+                "projectPath": "C:\\testes\\OPEN.Motorista.Infra.Data\\Teste.Infra.Data.csproj"
+              },
+              "C:\\testes\\OPEN.Motorista.Infra.Repositorios\\OPEN.Motorista.Infra.Repositorios.csproj": {
+                "projectPath": "C:\\testes\\OPEN.Motorista.Infra.Repositorios\\OPEN.Motorista.Infra.Repositorios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\testes\\OPEN.Motorista.CrossCutting\\OPEN.Motorista.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\testes\\OPEN.Motorista.CrossCutting\\OPEN.Motorista.CrossCutting.csproj",
+        "projectName": "OPEN.Motorista.CrossCutting",
+        "projectPath": "C:\\testes\\OPEN.Motorista.CrossCutting\\OPEN.Motorista.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\testes\\OPEN.Motorista.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj",
+        "projectName": "Teste.Dominio",
+        "projectPath": "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\testes\\OPEN.Motorista.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\testes\\OPEN.Motorista.Infra.Data\\Teste.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\testes\\OPEN.Motorista.Infra.Data\\Teste.Infra.Data.csproj",
+        "projectName": "Teste.Infra.Data",
+        "projectPath": "C:\\testes\\OPEN.Motorista.Infra.Data\\Teste.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\testes\\OPEN.Motorista.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\testes\\OPEN.Motorista.CrossCutting\\OPEN.Motorista.CrossCutting.csproj": {
+                "projectPath": "C:\\testes\\OPEN.Motorista.CrossCutting\\OPEN.Motorista.CrossCutting.csproj"
+              },
+              "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj": {
+                "projectPath": "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\testes\\OPEN.Motorista.Infra.Repositorios\\OPEN.Motorista.Infra.Repositorios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\testes\\OPEN.Motorista.Infra.Repositorios\\OPEN.Motorista.Infra.Repositorios.csproj",
+        "projectName": "OPEN.Motorista.Infra.Repositorios",
+        "projectPath": "C:\\testes\\OPEN.Motorista.Infra.Repositorios\\OPEN.Motorista.Infra.Repositorios.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\testes\\OPEN.Motorista.Infra.Repositorios\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj": {
+                "projectPath": "C:\\testes\\OPEN.Motorista.Dominio\\Teste.Dominio.csproj"
+              },
+              "C:\\testes\\OPEN.Motorista.Infra.Data\\Teste.Infra.Data.csproj": {
+                "projectPath": "C:\\testes\\OPEN.Motorista.Infra.Data\\Teste.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

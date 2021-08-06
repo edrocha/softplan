@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Marcas.TesteConsole\\OPEN.Marcas.TesteConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Marcas.TesteConsole\\OPEN.Marcas.TesteConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Marcas.TesteConsole\\OPEN.Marcas.TesteConsole.csproj",
+        "projectName": "OPEN.Marcas.TesteConsole",
+        "projectPath": "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Marcas.TesteConsole\\OPEN.Marcas.TesteConsole.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Marcas.TesteConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Motorista.Dominio\\OPEN.Motorista.Dominio.csproj": {
+                "projectPath": "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Motorista.Dominio\\OPEN.Motorista.Dominio.csproj"
+              },
+              "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Motorista.Infra.Data\\OPEN.Motorista.Infra.Data.csproj": {
+                "projectPath": "C:\\opentech\\opentech-back-end\\openscore.calculascore\\OPEN.Motorista.Infra.Data\\OPEN.Motorista.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

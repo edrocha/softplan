@@ -1,0 +1,17 @@
+C:\opentech\opentech-back-end\openscore.calculascore\OPEN.Marcas.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.AssemblyInfoInputs.cache
+C:\opentech\opentech-back-end\openscore.calculascore\OPEN.Marcas.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.AssemblyInfo.cs
+C:\opentech\opentech-back-end\openscore.calculascore\OPEN.Marcas.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.csproj.CoreCompileInputs.cache
+C:\opentech\opentech-back-end\openscore.calculascore\OPEN.Marcas.Dominio\bin\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.deps.json
+C:\opentech\opentech-back-end\openscore.calculascore\OPEN.Marcas.Dominio\bin\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.dll
+C:\opentech\opentech-back-end\openscore.calculascore\OPEN.Marcas.Dominio\bin\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.pdb
+C:\opentech\opentech-back-end\openscore.calculascore\OPEN.Marcas.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.dll
+C:\opentech\opentech-back-end\openscore.calculascore\OPEN.Marcas.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.pdb
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\bin\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.deps.json
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\bin\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.dll
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\bin\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.pdb
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.AssemblyInfoInputs.cache
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.AssemblyInfo.cs
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.csproj.CoreCompileInputs.cache
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.dll
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.pdb
+C:\opentech\openscore.calculascore\OPEN.Motorista.Dominio\obj\Debug\netcoreapp3.1\OPEN.Motorista.Dominio.csprojAssemblyReference.cache

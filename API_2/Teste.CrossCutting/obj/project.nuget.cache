@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WZnh7oirknMOvrgEUCVV6jQpUTzgpsOge/UOQI853ueXwZg6UfCjwGEj0FjRe603NX2mIbHD5QQYPTsGL6qVw==",
+  "success": true,
+  "projectFilePath": "C:\\teste\\API_2\\Teste.CrossCutting\\Teste.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EDINHOPATY\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Users\\EDINHOPATY\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\EDINHOPATY\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\EDINHOPATY\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\EDINHOPATY\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\EDINHOPATY\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\EDINHOPATY\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Teste\\GCOM.Marcas.Teste.csproj": {}
+  },
+  "projects": {
+    "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.CrossCutting\\OPEN.Marcas.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.CrossCutting\\OPEN.Marcas.CrossCutting.csproj",
+        "projectName": "OPEN.Marcas.CrossCutting",
+        "projectPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.CrossCutting\\OPEN.Marcas.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Dominio\\OPEN.Marcas.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Dominio\\OPEN.Marcas.Dominio.csproj",
+        "projectName": "OPEN.Marcas.Dominio",
+        "projectPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Dominio\\OPEN.Marcas.Dominio.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Infra.Data\\OPEN.Marcas.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Infra.Data\\OPEN.Marcas.Infra.Data.csproj",
+        "projectName": "OPEN.Marcas.Infra.Data",
+        "projectPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Infra.Data\\OPEN.Marcas.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.CrossCutting\\OPEN.Marcas.CrossCutting.csproj": {
+                "projectPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.CrossCutting\\OPEN.Marcas.CrossCutting.csproj"
+              },
+              "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Dominio\\OPEN.Marcas.Dominio.csproj": {
+                "projectPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Dominio\\OPEN.Marcas.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.90, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Teste\\GCOM.Marcas.Teste.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Teste\\GCOM.Marcas.Teste.csproj",
+        "projectName": "GCOM.Marcas.Teste",
+        "projectPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Teste\\GCOM.Marcas.Teste.csproj",
+        "packagesPath": "C:\\Users\\EDINHOPATY\\.nuget\\packages\\",
+        "outputPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Teste\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EDINHOPATY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Infra.Data\\OPEN.Marcas.Infra.Data.csproj": {
+                "projectPath": "C:\\opentech\\opentech-back-end\\GCOMAPI\\GCOM.Marcas.Infra.Data\\OPEN.Marcas.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
